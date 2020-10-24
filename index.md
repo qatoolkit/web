@@ -12,11 +12,11 @@ QA Tool Kit is a collection of *libraries*, *tools*, *scripts* and *guides* for 
 
 Currently we provide `.NET Standard` libraries that can be used in your projects, custom applications, etc. More options for other languages like `Python`, `GoLang` might come in the future.
 
-##### QAToolKit.Core
+##### 1. QAToolKit.Core
 
 This is a core library, that contains code that is shared and used among the other libraries.
 
-##### QAToolKit.Source.Swagger
+##### 2. QAToolKit.Source.Swagger
 
 [Swagger](https://swagger.io/specification/) is a popular OpenAPI specification that defines a standard interface for RESTful APIs. It's a blueprint for humans and machines to explore and generate HTTP requests. 
 
@@ -26,7 +26,7 @@ The library is very flexible and allows for request filtering, whitelisting, dat
 
 It supports OpenAPI standard 3.
 
-##### QAToolKit.Engine.Bombardier
+##### 3. QAToolKit.Engine.Bombardier
 
 [Bombardier](https://github.com/codesenberg/bombardier) is a fast and easy to use load testing tool written in GoLang. The QA Tool Kit library generates load tests as Bombardier commands and also executes them.
 This way we provide an encapsulation and abstraction layer on top of Bombardier executable. And you guessed it, the output of `QAToolKit.Source.Swagger` can be used to generate the load tests.
@@ -35,10 +35,12 @@ This way we provide an encapsulation and abstraction layer on top of Bombardier 
 
 We plan to release more libraries, scripts and guides so stay put and come back in coming months.
 
+**Enjoy! :)**
+
 #### Legal
 
 All tools are released under [MIT license](https://opensource.org/licenses/MIT).
 
-QA Tool Kit is also build from other tools and libraries. We bow to those individuals and organizations to provide us the tools, without which this project would not be possible.
+QA Tool Kit is build from other frameworks, tools and libraries. We bow to those individuals and organizations to provide us the tools, without which this project would not be possible.
 
 Copyright (c) 2020 Miha Jakovac
