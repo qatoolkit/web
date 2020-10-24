@@ -41,6 +41,6 @@ We plan to release more libraries, scripts and guides so stay put and come back 
 
 All tools are released under [MIT license](https://opensource.org/licenses/MIT).
 
-QA Tool Kit is build from other frameworks, tools and libraries. We bow to those individuals and organizations to provide us the tools, without which this project would not be possible.
+QA Tool Kit is build on top of other frameworks, tools and libraries. We bow to those individuals and organizations to provide us the tools, without which this project would not be possible.
 
 Copyright (c) 2020 Miha Jakovac
