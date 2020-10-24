@@ -15,4 +15,4 @@ absolute_url: https://qatoolkit.io
 github:
   is_project_page: true
   is_user_page: false
-show_downloads: true
+show_downloads: false
