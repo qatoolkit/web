@@ -6,7 +6,7 @@ Monday 2nd of November 2020.
 
 #### What is QA Tool Kit?
 
-QA Tool Kit is a collection of *libraries*, *tools*, *scripts* and *guides* for your everyday `Quality Assurance (QA)` & `DevOps` tasks. Every tool is published as an open source on [Github](https://github.com/qatoolkit). It can be run on Windows, Linux and MacOS.
+QA Tool Kit is a collection of *libraries*, *tools*, *scripts* and *guides* for your everyday `Quality Assurance (QA)` & `DevOps` tasks. Everything is published as an open source on [Github](https://github.com/qatoolkit) and can be run on Windows, Linux and MacOS.
 
 #### What's in the box?
 
@@ -34,3 +34,11 @@ This way we provide an encapsulation and abstraction layer on top of Bombardier 
 #### The future is bright
 
 We plan to release more libraries, scripts and guides so stay put and come back in coming months.
+
+#### Legal
+
+All tools are released under [MIT license](https://opensource.org/licenses/MIT).
+
+QA Tool Kit is also build from other tools and libraries. We bow to those individuals and organizations to provide us the tools, without which this project would not be possible.
+
+Copyright (c) 2020 Miha Jakovac
