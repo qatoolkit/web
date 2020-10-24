@@ -6,11 +6,11 @@ Monday 2nd of November 2020.
 
 #### What is QA Tool Kit?
 
-QA Tool Kit is a collection of libraries, tools, scripts and guides for your everyday Quality Assurance (QA) & DevOps tasks. Every tool is published as an open source on [Github](https://github.com/qatoolkit). It can be run on Windows, Linux and MacOS.
+QA Tool Kit is a collection of *libraries*, *tools*, *scripts* and *guides* for your everyday `Quality Assurance (QA)` & `DevOps` tasks. Every tool is published as an open source on [Github](https://github.com/qatoolkit). It can be run on Windows, Linux and MacOS.
 
 #### What's in the box?
 
-Currently we provide .NET Standard libraries that can be used in your projects, custom applications, etc.
+Currently we provide `.NET Standard` libraries that can be used in your projects, custom applications, etc. More options for other languages like `Python`, `GoLang` might come in the future.
 
 ##### QAToolKit.Core
 
@@ -18,9 +18,13 @@ This is a core library, that contains code that is shared and used among the oth
 
 ##### QAToolKit.Source.Swagger
 
-[Swagger](https://swagger.io/specification/) is a popular Open Web API documentation standard and is a used as a blueprint to generate HTTP requests. Those can then be used in other processes like Bombardier below.
+[Swagger](https://swagger.io/specification/) is a popular OpenAPI specification that defines a standard interface for RESTful APIs. It's a blueprint for humans and machines to explore and generate HTTP requests. 
 
-A library is very flexible and allow for filtering of requests, whitelisting, data generation, URL and model data replacement and basic authentication. It supports OpenAPI standard 3.
+`QAToolKit.Source.Swagger` can produce a list to HTTP requests from Swagger files which can be used in other steps & processes like Bombardier (check `QAToolKit.Engine.Bombardier`).
+
+The library is very flexible and allows for request filtering, whitelisting, data generation, URL and model data replacement and basic authentication. This way you can generate requests that can be used in load test, integration test, etc.
+
+It supports OpenAPI standard 3.
 
 ##### QAToolKit.Engine.Bombardier
 
@@ -29,4 +33,4 @@ This way we provide an encapsulation and abstraction layer on top of Bombardier 
 
 #### The future is bright
 
-We plan to produce more libraries, scripts and guides so stay put and come back in coming months.
+We plan to release more libraries, scripts and guides so stay put and come back in coming months.
