@@ -1,6 +1,7 @@
 ## QA Tool Kit
 ```
-Initial release of QA Tool Kit will is scheduled for Monday 2nd of November 2020.
+Initial release of QA Tool Kit will is scheduled for
+Monday 2nd of November 2020.
 ```
 
 #### What is QA Tool Kit?
