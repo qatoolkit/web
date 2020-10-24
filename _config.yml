@@ -2,15 +2,12 @@ theme: jekyll-theme-minimal
 
 encoding: UTF-8
 timezone: Ljubljana
-#
-# This file contains configuration flags to customize your site
-#
 
 # Name of your site (displayed in the header)
-name: QAToolKit
+name: QA Tool Kit
 logo: https://avatars2.githubusercontent.com/u/73333202?s=200&v=4
-title: QAToolKit
-description: Tools for your QA tasks
+title: QA Tool Kit
+description: Tools, scripts, libraries and guides for your QA tasks
 absolute_url: https://qatoolkit.io
 github:
   is_project_page: true
