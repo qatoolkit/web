@@ -24,9 +24,9 @@ Check out the source code and documentation [here](https://github.com/qatoolkit/
 
 `QAToolKit.Source.Swagger` can produce a list to HTTP requests from Swagger files which can be used in other steps & processes like Bombardier (check `QAToolKit.Engine.Bombardier`).
 
-The library is very flexible and allows for request filtering, whitelisting, data generation, URL and model data replacement and basic authentication. This way you can generate requests that can be used in load test, integration test, etc.
+The library is very flexible and allows for request filtering, whitelisting, data generation, URL and model data replacement and basic authentication. This way you can generate requests that can be used in load tests, integration tests, etc.
 
-It supports OpenAPI standard 3.
+It supports OpenAPI standard v3.0.
 
 Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-source-swagger-net).
 
