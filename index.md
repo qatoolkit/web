@@ -10,13 +10,15 @@ QA Tool Kit is a collection of *libraries*, *tools*, *scripts* and *guides* for 
 
 #### What's in the box?
 
-Currently we provide `.NET Standard` libraries that can be used in your projects, custom applications, etc. More options for other languages like `Python`, `GoLang` might come in the future.
+Currently we provide `.NET Standard` libraries that can be used in your projects or custom applications. More options for other languages like `Python`, `GoLang` might come in the future.
 
-##### 1. QAToolKit.Core
+##### 1. [QAToolKit.Core](https://github.com/qatoolkit/qatoolkit-core-net)
 
 This is a core library, that contains code that is shared and used among the other libraries.
 
-##### 2. QAToolKit.Source.Swagger
+Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-core-net).
+
+##### 2.  [QAToolKit.Source.Swagger](https://github.com/qatoolkit/qatoolkit-source-swagger-net)
 
 [Swagger](https://swagger.io/specification/) is a popular OpenAPI specification that defines a standard interface for RESTful APIs. It's a blueprint for humans and machines to explore and generate HTTP requests. 
 
@@ -26,10 +28,14 @@ The library is very flexible and allows for request filtering, whitelisting, dat
 
 It supports OpenAPI standard 3.
 
-##### 3. QAToolKit.Engine.Bombardier
+Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-source-swagger-net).
+
+##### 3. [QAToolKit.Engine.Bombardier](https://github.com/qatoolkit/qatoolkit-engine-bombardier-net)
 
 [Bombardier](https://github.com/codesenberg/bombardier) is a fast and easy to use load testing tool written in GoLang. The QA Tool Kit library generates load tests as Bombardier commands and also executes them.
 This way we provide an encapsulation and abstraction layer on top of Bombardier executable. And you guessed it, the output of `QAToolKit.Source.Swagger` can be used to generate the load tests.
+
+Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-engine-bombardier-net).
 
 #### The future is bright
 
