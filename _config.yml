@@ -7,9 +7,11 @@ timezone: Ljubljana
 name: QA Tool Kit
 logo: https://avatars2.githubusercontent.com/u/73333202?s=200&v=4
 title: QA Tool Kit
-description: Tools, scripts, libraries and guides for your QA tasks
+description: Tools, scripts, libraries and guides for your QA and DevOps tasks
 absolute_url: https://qatoolkit.io
 github:
   is_project_page: true
   is_user_page: false
+  repository_nwo: https://github.com/qatoolkit
 show_downloads: false
+google_analytics: false
