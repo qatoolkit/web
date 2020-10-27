@@ -1,4 +1,3 @@
-## QA Tool Kit
 ```
 Initial release of QA Tool Kit will is scheduled for
 Monday 2nd of November 2020.
@@ -14,7 +13,7 @@ Currently we provide `.NET Standard` libraries that can be used in your projects
 
 ##### 1. [QAToolKit.Core](https://github.com/qatoolkit/qatoolkit-core-net)
 
-This is a core library, that contains code that is shared and used among the other libraries.
+This is a core library, that contains shared and core code of the QA Tool Kit project.
 
 Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-core-net).
 
@@ -22,7 +21,7 @@ Check out the source code and documentation [here](https://github.com/qatoolkit/
 
 [Swagger](https://swagger.io/specification/) is a popular OpenAPI specification that defines a standard interface for RESTful APIs. It's a blueprint for humans and machines to explore and generate HTTP requests. 
 
-`QAToolKit.Source.Swagger` can produce a list to HTTP requests from Swagger files which can be used in other steps & processes like Bombardier (check `QAToolKit.Engine.Bombardier`).
+`QAToolKit.Source.Swagger` can produce a list to HTTP requests from Swagger files which can be used in other steps & processes like load tests, integration tests, etc.
 
 The library is very flexible and allows for request filtering, whitelisting, data generation, URL and model data replacement and basic authentication. This way you can generate requests that can be used in load tests, integration tests, etc.
 
@@ -42,6 +41,11 @@ Check out the source code and documentation [here](https://github.com/qatoolkit/
 We plan to release more libraries, scripts and guides so stay put and come back in coming months.
 
 **Enjoy! :)**
+
+#### Do you need help?
+If you need help with setting up QA Tool Kit within your organization, or you need other of my services contact me through [LinkedIn](https://www.linkedin.com/in/mihajakovac/). I don't bite! :)
+
+I'll setup other communication channels in the future.
 
 #### Legal
 
