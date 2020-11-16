@@ -1,8 +1,3 @@
-```
-Initial release of QA Tool Kit will is scheduled for
-Monday 2nd of November 2020.
-```
-
 #### What is QA Tool Kit?
 
 QA Tool Kit is a collection of *libraries*, *tools*, *scripts* and *guides* for your everyday `Quality Assurance (QA)` & `DevOps` tasks. Everything is published as an open source on [Github](https://github.com/qatoolkit) and can be run on Windows, Linux and MacOS.
@@ -35,6 +30,12 @@ Check out the source code and documentation [here](https://github.com/qatoolkit/
 This way we provide an encapsulation and abstraction layer on top of Bombardier executable. And you guessed it, the output of `QAToolKit.Source.Swagger` can be used to generate the load tests.
 
 Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-engine-bombardier-net).
+
+##### 4. [QAToolKit.Engine.HttpTester](https://github.com/qatoolkit/qatoolkit-engine-httptester-net)
+
+The library is a thin wrapper around `HttpClient` and gives you a fluent API to interact with it.
+
+Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-engine-httptester-net).
 
 #### The future is bright
 
