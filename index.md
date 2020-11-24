@@ -37,6 +37,14 @@ The library is a thin wrapper around `HttpClient` and gives you a fluent API to 
 
 Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-engine-httptester-net).
 
+##### 5. [QAToolKit.Engine.Database](https://github.com/qatoolkit/qatoolkit-engine-database-net)
+
+`QAToolKit.Engine.Database` is a .NET standard library, which can be used to do database fitness tests. For example, if you want to test that table is present in database, or certain number of records exist in specific table or if a record exists.
+
+Currently supports only relational databases: `SQLServer`, `MySQL` and `PostgreSQL`.
+
+Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-engine-database-net).
+
 #### The future is bright
 
 We plan to release more libraries, scripts and guides so stay put and come back in coming months.
