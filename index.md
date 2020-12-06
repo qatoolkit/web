@@ -45,6 +45,14 @@ Currently supports only relational databases: `SQLServer`, `MySQL` and `PostgreS
 
 Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-engine-database-net).
 
+##### 6. [QAToolKit.Auth](https://github.com/qatoolkit/qatoolkit-auth-net)
+
+`QAToolKit.Auth` is a library, that retrieves the JWT access tokens from different identity providers, which you can use to call your API endpoints.
+
+Currently supports only those identity providers: `Keycloak`.
+
+Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-auth-net).
+
 #### The future is bright
 
 We plan to release more libraries, scripts and guides so stay put and come back in coming months.
