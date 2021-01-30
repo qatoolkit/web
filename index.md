@@ -49,9 +49,15 @@ Check out the source code and documentation [here](https://github.com/qatoolkit/
 
 `QAToolKit.Auth` is a library, that retrieves the JWT access tokens from different identity providers, which you can use to call your API endpoints.
 
-Currently supports only those identity providers: `Keycloak`.
+Currently supports only those identity providers: `Identity Server 4`, `Azure B2C`, `Keycloak`.
 
 Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-auth-net).
+
+##### 7. [QAToolKit.Engine.Probes](https://github.com/qatoolkit/qatoolkit-engine-probes-net)
+
+`QAToolKit.Engine.Probes` library creates a network probes to test servers/services with protocols like HTTP, TCP, ICMP (Ping).
+
+Check out the source code and documentation [here](https://github.com/qatoolkit/qatoolkit-engine-probes-net).
 
 #### The future is bright
 
@@ -70,4 +76,4 @@ All tools are released under [MIT license](https://opensource.org/licenses/MIT).
 
 QA Tool Kit is build on top of other frameworks, tools and libraries. We bow to those individuals and organizations to provide us with tools, without which this project would not be possible.
 
-Copyright (c) 2020 Miha Jakovac
+Copyright (c) 2020-2021 Miha Jakovac
