@@ -66,9 +66,10 @@ We plan to release more libraries, scripts and guides so stay put and come back 
 **Enjoy! :)**
 
 #### Do you need help?
-If you need help with setting up QA Tool Kit within your organization, or you need other of my services contact me through [LinkedIn](https://www.linkedin.com/in/mihajakovac/). I don't bite! :)
 
-I'll setup other communication channels in the future.
+We have a Discord community, [![Discord](https://img.shields.io/discord/787220825127780354?color=%23267CB9&label=Discord%20chat)](https://discord.gg/hYs6ayYQC5).
+
+If you need help with setting up QA Tool Kit within your organization, or you need other of my services contact me through [LinkedIn](https://www.linkedin.com/in/mihajakovac/). I don't bite! :)
 
 #### Legal
 
